@@ -1,0 +1,17 @@
+﻿Analyzing canteeno...                                           
+
+   info - The file name 'MenuListPage.dart' isn't a lower_case_with_underscores identifier - lib\screens\CateenOwner\MenuManagement\MenuListPage.dart:1:1 - file_names
+   info - The file name 'OwnerHomeScreen.dart' isn't a lower_case_with_underscores identifier - lib\screens\CateenOwner\OwnerHomeScreen.dart:1:1 - file_names
+   info - The file name 'PaymentListPage.dart' isn't a lower_case_with_underscores identifier - lib\screens\CateenOwner\PaymentManagement\PaymentListPage.dart:1:1 - file_names
+   info - The file name 'OwnerProfilePage.dart' isn't a lower_case_with_underscores identifier - lib\screens\CateenOwner\Profile\OwnerProfilePage.dart:1:1 - file_names
+   info - The file name 'OwnerProfilePage.dart' isn't a lower_case_with_underscores identifier - lib\screens\CateenOwner\Reports\OwnerProfilePage.dart:1:1 - file_names
+   info - The file name 'SalesReportPage.dart' isn't a lower_case_with_underscores identifier - lib\screens\CateenOwner\Reports\SalesReportPage.dart:1:1 - file_names
+   info - Invalid use of a private type in a public API - lib\screens\User_Profile\add_payment.dart:7:3 - library_private_types_in_public_api
+   info - Invalid use of a private type in a public API - lib\screens\User_Profile\add_voucher.dart:7:3 - library_private_types_in_public_api
+   info - Statements in an if should be enclosed in a block - lib\screens\owner_tabs\menu_tab.dart:254:23 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\screens\owner_tabs\menu_tab.dart:256:23 - curly_braces_in_flow_control_structures
+   info - The import of 'dart:typed_data' is unnecessary because all of the used elements are also provided by the import of 'package:flutter/foundation.dart' - lib\utils\download_service.dart:2:8 - unnecessary_import
+   info - Use 'const' with the constructor to improve performance - lib\utils\download_service.dart:182:55 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\utils\download_service.dart:190:49 - prefer_const_constructors
+warning - The value of the local variable 'anchor' isn't used - lib\utils\download_service.dart:277:13 - unused_local_variable
+
