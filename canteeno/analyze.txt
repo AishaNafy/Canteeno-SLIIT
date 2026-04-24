@@ -1,0 +1,77 @@
+Analyzing canteeno...                                           
+
+   info • Use 'const' with the constructor to improve performance • lib/main.dart:13:12 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/main.dart:16:13 • prefer_const_constructors
+   info • The file name 'AdminHomeScreen.dart' isn't a lower_case_with_underscores identifier • lib/screens/AdminHomeScreen.dart:1:1 • file_names
+   info • The file name 'OwnerHomeScreen.dart' isn't a lower_case_with_underscores identifier • lib/screens/OwnerHomeScreen.dart:1:1 • file_names
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:38:15 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:40:24 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/screens/home_screen.dart:42:29 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:52:21 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/screens/home_screen.dart:53:33 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:60:25 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:82:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:149:15 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/home_screen.dart:151:24 • prefer_const_constructors
+   info • Constructors for public widgets should have a named 'key' parameter • lib/screens/login_screen.dart:6:7 • use_key_in_widget_constructors
+   info • Invalid use of a private type in a public API • lib/screens/login_screen.dart:8:3 • library_private_types_in_public_api
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:28:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:34:14 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:90:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:94:51 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:99:51 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:104:51 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:113:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:123:15 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:133:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:135:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:137:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:158:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:168:21 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:176:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:186:21 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:201:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:205:21 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:210:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:213:21 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:216:21 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:218:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:221:21 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:224:21 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/screens/login_screen.dart:225:33 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:226:25 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:226:41 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:227:25 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:229:34 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:231:36 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:234:25 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:234:41 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:238:21 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:251:31 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:252:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:254:34 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/login_screen.dart:264:15 • prefer_const_constructors
+   info • Constructors for public widgets should have a named 'key' parameter • lib/screens/splash1.dart:4:7 • use_key_in_widget_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/splash1.dart:12:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/splash1.dart:12:41 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/splash1.dart:13:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/splash1.dart:21:20 • prefer_const_constructors
+   info • Constructors for public widgets should have a named 'key' parameter • lib/screens/splash2.dart:4:7 • use_key_in_widget_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/splash2.dart:9:18 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/splash2.dart:14:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/splash2.dart:16:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/splash2.dart:18:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/splash2.dart:21:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/splash2.dart:23:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/splash2.dart:28:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/splash2.dart:37:22 • prefer_const_constructors
+   info • Constructors for public widgets should have a named 'key' parameter • lib/screens/splash3.dart:4:7 • use_key_in_widget_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/splash3.dart:9:18 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/splash3.dart:14:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/splash3.dart:16:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/splash3.dart:18:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/splash3.dart:21:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/splash3.dart:23:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/splash3.dart:28:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/screens/splash3.dart:37:22 • prefer_const_constructors
+
